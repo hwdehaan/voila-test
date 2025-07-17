@@ -2,7 +2,7 @@ name: voila
 channels:
   - conda-forge
 dependencies:
-  - jupyterlab=5
+  - jupyterlab=4*
   - ipywidgets
   - scipy
   - ipympl
