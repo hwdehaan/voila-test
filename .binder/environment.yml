@@ -2,10 +2,8 @@ name: voila
 channels:
   - conda-forge
 dependencies:
-  - jupyterlab=4
-  - ipywidgets=8
-  - ipyvolume
-  - bqplot
+  - jupyterlab=5
+  - ipywidgets
   - scipy
   - ipympl
-  - python=3.11
+  - voila
