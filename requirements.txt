@@ -2,3 +2,6 @@ matplotlib
 ipympl
 scipy
 voila
+numpy
+pillow
+varname
